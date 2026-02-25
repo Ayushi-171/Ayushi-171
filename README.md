@@ -21,26 +21,18 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayushi171&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Ayushi-171&show_icons=true&theme=radical"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi171&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-171&layout=compact&theme=radical"
     alt="Top languages"
   />
 </p>
-
----
 
 ## 🌐 Portfolio
 
