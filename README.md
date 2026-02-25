@@ -23,9 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-171&show_icons=true&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-171&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/Ayushi-171?template=classic&repositories=1&base.header=0&base.metadata=0&isocalendar=false&languages=false&themes=light)
 
 ## 🌐 Portfolio
 
