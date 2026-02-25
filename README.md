@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/Ayushi-171?template=classic&repositories=1&base.header=0&base.metadata=0&isocalendar=false&languages=false&themes=light)
-
 ## 🌐 Portfolio
 
 🔗 [Check out my portfolio here](https://ayushi-171.github.io/My_Portfolio/)
